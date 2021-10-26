@@ -7,3 +7,7 @@ GUI, A graphical user interface (GUI) is a type of user interface through which 
 IDE, An integrated development environment (IDE) is a software application that provides comprehensive facilities to computer programmers for software development
 VS Code, is a code editor redefined and optimized for building and debugging modern web and cloud applications
 Abstraction, used to hide background details or any unnecessary implementation about the data so that users only see the required information
+
+Operators, In computer programming, operators are constructs defined within programming languages which behave generally like functions, but which differ syntactically or semantically. 
+Logical Operators, a programming-language symbol that denotes a logical operation.
+Arithmetic Operator, An arithmetic operator is a mathematical function that takes two operands and performs a calculation on them
