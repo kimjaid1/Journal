@@ -11,3 +11,6 @@ Abstraction, used to hide background details or any unnecessary implementation a
 Operators, In computer programming, operators are constructs defined within programming languages which behave generally like functions, but which differ syntactically or semantically. 
 Logical Operators, a programming-language symbol that denotes a logical operation.
 Arithmetic Operator, An arithmetic operator is a mathematical function that takes two operands and performs a calculation on them
+
+While loop, while loop is a control flow statement that allows code to be executed repeatedly based on a given Boolean condition
+For loop, The “for” loop in Java is an entry-controlled loop that facilitates a user to execute a block of a statement(s) iteratively for a fixed number of times
